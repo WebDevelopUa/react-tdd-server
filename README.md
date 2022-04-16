@@ -2,7 +2,8 @@
 
 * [GitHub Repo Server](https://github.com/WebDevelopUa/react-tdd-server)
 * [GitHub Repo Client](https://github.com/WebDevelopUa/)
-* [http://localhost:3000](http://localhost:3000)
+* [http://localhost:3000](http://localhost:3000) - set `"proxy": "http://localhost:3000"` in client package.json
+* [ENDPOINT 1](http://localhost:3000/api/1.0/users) - `{"content":[],"page":0,"size":10,"totalPages":0}`
 
 -------------------
 
