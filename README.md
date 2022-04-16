@@ -13,9 +13,9 @@ Run project:
 
 ```shell
 npm i 
-npm i start
-npm i test
-npm i lint
+npm run start
+npm run test
+npm run lint
 ````
 
 ```shell
