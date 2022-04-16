@@ -83,5 +83,6 @@
     "setupFilesAfterEnv": [
       "<rootDir>/test-setup.js"
     ]
-  }
+  },
+  "proxy": "http://localhost:3000"
 }
