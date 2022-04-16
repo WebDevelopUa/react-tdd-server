@@ -1,5 +1,5 @@
 {
-  "name": "express-ws",
+  "name": "react-tdd-server",
   "version": "1.3.0",
   "description": "tdd with express",
   "main": "app.js",
