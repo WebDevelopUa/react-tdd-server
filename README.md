@@ -5,7 +5,7 @@
 * [http://localhost:3000](http://localhost:3000)
 * [ENDPOINT 1](http://localhost:3000/api/1.0/users) - `{"content":[],"page":0,"size":10,"totalPages":0}`
 * [ENDPOINT 1+](http://localhost:3030/api/1.0/users)
-
+* [proxy] - `  "proxy": "http://127.0.0.1:3030" `
 -------------------
 
 ### Node: 16.13.0
